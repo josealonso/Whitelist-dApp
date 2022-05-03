@@ -1,3 +1,14 @@
+## Hardhat First Steps
+
+- Compile the contract
+`npx hardhat compile`
+
+- Deploy the contract
+`npx hardhat run scripts/deploy.ts --network rinkeby`
+```
+Whitelist Contract Address: 0xD6B10877498f4EDaf5B6736F67b58C6753baE460
+```
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
